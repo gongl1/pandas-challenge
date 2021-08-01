@@ -9,6 +9,10 @@ My 3 trends summary:
 -Extra: The average unit price sold is $3.05. 20-24 year olds' Average Purchase Price is also $3.05. Their % of purchases compared to total sales is 46.81% which exceeds 44.79%, their percentage among total players. So I would target this group for potential more sales. 
 
 
+- - -
+
+© Liang Gong. Confidential and Proprietary. All Rights Reserved.
+
 # Pandas Homework - Pandas, Pandas, Pandas
 
 ## Background
